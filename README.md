@@ -1,10 +1,10 @@
-# cosmetecor
+# Welcome to cosmetecor.org scripts page 
 
-#\content
+#Content
 
       scripts for paint graphs and etc
 	
-\content\content.rb	
+*\content\content.rb*	
       task manager for paint graphs over time
 
 \content\gen_image.rb	
@@ -46,7 +46,8 @@
     lightning map with google-maps
 
 
-#\manager	
+#Manager
+
       scripts for parse and load data to DB
 	
 \manager\manager.rb	
