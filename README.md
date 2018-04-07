@@ -1,6 +1,6 @@
 # Welcome to cosmetecor.org scripts page 
 
-#Content
+### Content
 
       scripts for paint graphs and etc
 	
