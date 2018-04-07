@@ -7,29 +7,20 @@
 Path | Description
 ------------ | -------------
 **\content\content.rb** | task manager for paint graphs over time
-**\content\gen_image.rb**|
-      job generator for gnuplot. Use \content\gnuplot.rb
-**\content\gnuplot.rb**	|
-      paint graph. Different graphs types
-**\content\gen_image_desp.rb**	|
-      job generator for gnuplot by USER. Use \content\gnuplot_desp_new2017.rb
-**\content\gnuplot_desp.rb**|
-      paint graph user request. Old version
+**\content\gen_image.rb**|   job generator for gnuplot. Use \content\gnuplot.rb
+**\content\gnuplot.rb**	|      paint graph. Different graphs types
+**\content\gen_image_desp.rb**	|      job generator for gnuplot by USER. Use \content\gnuplot_desp_new2017.rb
+**\content\gnuplot_desp.rb**|      paint graph user request. Old version
 **\content\gnuplot_desp_new2017.rb**|	paint graph user request. 
-**\content\select_magnitude_7.rb**|	
-       paint circles with magnitude
-**\content\paint8in1\select_4db.rb**|	
-      paint 8 graphs on 1 list
-**\content\paint8in1\gnu.dat**|	
-      template for gnuplot
-**\content\gen_earth_quake_kml.rb**|	
-      earthquakes map with google-maps
+**\content\select_magnitude_7.rb**|	       paint circles with magnitude
+**\content\paint8in1\select_4db.rb**|	      paint 8 graphs on 1 list
+**\content\paint8in1\gnu.dat**|	      template for gnuplot
+**\content\gen_earth_quake_kml.rb**|	      earthquakes map with google-maps
      \content\gen_graphs.rb|	
      \content\gen_graphs_dev.rb	|
      \content\gen_kml_graphs.rb	|
      \content\gen_plate_boundaries.rb|	
-**\content\gen_kml_lightning.rb**|	
-    lightning map with google-maps
+**\content\gen_kml_lightning.rb**|    lightning map with google-maps
 
 
 ### Manager
