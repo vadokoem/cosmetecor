@@ -3,9 +3,10 @@
 ### Content
 
       scripts for paint graphs and etc
-	
-**\content\content.rb**	
-      task manager for paint graphs over time
+
+Path | Description
+------------ | -------------
+**\content\content.rb** | task manager for paint graphs over time
 
 **\content\gen_image.rb**
       job generator for gnuplot. Use \content\gnuplot.rb
