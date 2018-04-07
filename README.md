@@ -17,10 +17,10 @@ Path | Description
 **\content\paint8in1\gnu.dat**|	      template for gnuplot
 **\content\gen_kml_lightning.rb**|    lightning map with google-maps
 **\content\gen_earth_quake_kml.rb**| earthquakes map with google-maps 
-	\content\gen_graphs.rb|	google-maps
-     \content\gen_graphs_dev.rb	|google-maps
-     \content\gen_kml_graphs.rb	|google-maps
-     \content\gen_plate_boundaries.rb|	google-maps
+\content\gen_graphs.rb|	google-maps
+\content\gen_graphs_dev.rb	|google-maps
+\content\gen_kml_graphs.rb	|google-maps
+\content\gen_plate_boundaries.rb|	google-maps
 
 
 
