@@ -1,0 +1,25 @@
+reset
+set terminal png enhanced nocrop transparent font "arialbd,20" fontscale 1.0 size 3000, 5000
+set style rectangle fillstyle noborder
+set output "PATH"
+set tmargin 5
+set rmargin 7
+set lmargin 9
+set border lw 2
+set key center top
+set timefmt "%Y.%m.%dT%H:%M:%S"
+set xdata time
+set format x "%Y/%m/%d"
+set autoscale xfix
+set autoscale yfix
+set mxtics 10
+set key off
+set grid xtics ytics
+set tics scale 2
+set multiplot layout 4,2
+
+
+
+PLOTT
+
+unset multiplot
